@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/home/camara/Bureau/Cours_ESGI/S2/scala S2/TDs/Exam-Scala 2/Exam-Scala/wikipages/src/main/scala/Main.scala:81:13: overloaded method value + with alternatives:[0m
+[0m[[0m[31merror[0m] [0m[0m  (x: Int)Int <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (x: Char)Int <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (x: Short)Int <and>[0m
+[0m[[0m[31merror[0m] [0m[0m  (x: Byte)Int[0m
+[0m[[0m[31merror[0m] [0m[0m cannot be applied to (WikiPage)[0m
+[0m[[0m[31merror[0m] [0m[0m      total + page[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
